@@ -1,0 +1,3 @@
+yt-dlp>=2023.11.16
+pytube>=12.1.3
+tkinter; platform_system=="Windows" 
